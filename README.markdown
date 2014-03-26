@@ -1,3 +1,9 @@
+## نسخه فارسی Octopress
+
+نسخه فارسی و RTL(راست به چپ) قالب پیش فرض Octopress
+
+[راهنمای نصب](http://blog.shajari.me/2014/03/26/free-farsi-blog-on-github/)
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
