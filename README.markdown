@@ -1,6 +1,6 @@
-## نسخه فارسی Octopress
+## نسخه فارسی
 
-نسخه فارسی و RTL(راست به چپ) قالب پیش فرض Octopress
+نسخه فارسی قالب پیش فرض
 
 [راهنمای نصب](http://blog.shajari.me/2014/03/26/free-farsi-blog-on-github/)
 
